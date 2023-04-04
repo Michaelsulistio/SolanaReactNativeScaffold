@@ -11,7 +11,12 @@
   },
   "dependencies": {
     "react": "18.2.0",
-    "react-native": "0.71.6"
+    "react-native": "0.71.6",
+    "@solana-mobile/mobile-wallet-adapter-protocol": "^2.0.0",
+    "@solana-mobile/mobile-wallet-adapter-protocol-web3js": "^2.0.0",
+    "react-native-get-random-values": "^1.8.0", 
+    "@solana/wallet-adapter-react": "^0.15.32",
+    "@solana/web3.js": "^1.74.0"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
